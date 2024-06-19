@@ -3,4 +3,5 @@ langchain_openai
 streamlit
 python-dotenv
 pinecone-client
-duckduckgo_search
+duckduckGo_Search
+langchain_community
